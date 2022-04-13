@@ -1,8 +1,5 @@
-/*
- * Contagem na tela de 233 a 456
- * Contando de 5 em 5
- * Entre 300 e 400 a contagem segue de 3 em 3
- */
+/* 1. Faça um programa que mostre uma contagem na tela de 233 a 456, só que
+ * contando de 3 em 3 quando estiver entre 300 e 400 e de 5 em 5 quando não estiver. */
 
 programa
 {
@@ -37,7 +34,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 225; 
+ * @POSICAO-CURSOR = 79; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

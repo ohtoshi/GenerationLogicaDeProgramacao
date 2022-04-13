@@ -1,7 +1,5 @@
-/*
- * 4. Crie um programa que receba valores do usuário para preencher uma matriz 3X3, e em seguida,
- * exiba a soma dos valores dela e a soma dos valores da primeira diagonal, ou seja, diagonal principal.
- */
+/* 4. Crie um programa que receba valores do usuário para preencher uma matriz 3X3, e em seguida,
+ * exiba a soma dos valores dela e a soma dos valores da primeira diagonal, ou seja, diagonal principal. */
 
 programa
 {
@@ -40,9 +38,9 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 564; 
+ * @POSICAO-CURSOR = 203; 
  * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {mat, 11, 10, 3}-{soma, 11, 21, 4}-{somaDiagonal, 11, 29, 12};
+ * @SIMBOLOS-INSPECIONADOS = {mat, 10, 10, 3}-{soma, 10, 21, 4}-{somaDiagonal, 10, 29, 12};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */
